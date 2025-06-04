@@ -17,8 +17,5 @@ def lanzar_dados(amount, sides):
     print(f"Resultado total: {resultados}")  # Al final mostramos todos los resultados
 
 if __name__ == "__main__":
-    # Aquí definimos cuántos dados lanzamos y de cuántas caras
-  lanzar_dados(6, 20)
-
-print("Simulación completa")
+    lanzar_dados(amount=6, sides=6)
 
