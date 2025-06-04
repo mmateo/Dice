@@ -19,4 +19,5 @@ def lanzar_dados(amount, sides):
 if __name__ == "__main__":
     # Aquí definimos cuántos dados lanzamos y de cuántas caras
     lanzar_dados(6, 6)
-# Cambio de prueba para git
+print("Simulación completa")
+
