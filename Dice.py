@@ -13,4 +13,3 @@ def lanzar_dados(amount, sides):
 if __name__ == "__main__":
     lanzar_dados(amount=5, sides=6)
 print(f"Resultado del lanzamiento {i+1}: {resultado}")
-#sa
