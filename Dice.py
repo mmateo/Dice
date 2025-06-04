@@ -11,7 +11,4 @@ def lanzar_dados(amount, sides):
     return resultados
 
 if __name__ == "__main__":
-    lanzar_dados(amount=5, sides=20)
-
-print(f"Resultado del lanzamiento {i+1}: {resultado}")
-#sa
+    lanzar_dados(amount=6, sides=6)
