@@ -1,1 +1,1 @@
-"# Simulador de dados" 
+# Dice
